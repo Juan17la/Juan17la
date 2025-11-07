@@ -29,10 +29,10 @@
         <p style="margin:0; font-size:18px; color:#e6e6e6; background-color:#1a1a1a;
                   padding:12px 16px; border-radius:8px; display:inline-block; aling-items: top;
                   box-shadow:4px 4px 0px #6b4c7a;">
-          I'm a <b>Software Engineering student</b> who's constantly evolving — like a bug that refuses to be fixed.<br><br>
-          My focus? Building <b>scalable, functional, and clean backends</b> with a bit of rock-and-roll energy.<br><br>
-          Started with <b>Ren'Py</b> (because why not make stories?), jumped into <b>web dev</b>, and fell for <b>Node.js</b> & <b>Java</b> like it was fate.<br><br>
-          I dig deep into tech, philosophy, AI and all the weird stuff that makes the world tick.<br><br>
+          I'm a <b>Software Engineering student</b> who's constantly evolving.<br><br>
+          My focus is building <b>scalable, functional, and clean backends</b>.<br><br>
+          Started with <b>Ren'Py</b> (because why not make visual novels?), jumped into <b>web development</b>, and fell for <b>Node.js</b> & <b>Java</b> like it was meant to.<br><br>
+          I dig deep into tech, physics, AI and all lot of more things. I can stop watching or reading about whatever that I think it's interesting.<br><br>
         </p>
       </td>
     </tr>
