@@ -9,7 +9,7 @@
  ╚════╝  ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═══╝    ╚═════╝ ╚═╝╚══════╝ ╚═════╝  ╚═════╝ 
 ```
 
-### **`SOFTWARE ENGINEER STUDENT // GIVE A CHANCE PLEASE `**
+### **`SOFTWARE ENGINEER STUDENT // GIVE ME A CHANCE PLEASE `**
 
 </div>
 
