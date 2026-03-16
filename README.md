@@ -23,3 +23,22 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="30" alt="amazonwebservices logo"  />
 </div>
+
+###
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=CamiloParraS&show_icons=true&theme=react&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan17la&layout=compact&theme=react&hide_border=true&cache_seconds=86400"
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=Juan17la&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400"
+    height="165"
+  />
+</p>
