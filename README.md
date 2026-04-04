@@ -1,8 +1,8 @@
-<h2 align="left">Hello, I'm Juan Diego a Software Engineering Student</h2>
+<h2 align="left">Hello! I’m Juan Diego, a Software Engineering Student passionate about continuous growth. 🚀</h2>
 
 ###
 
-<p align="left">Learning and... doing whatever, but learning</p>
+<h4 align="left">Currently diving deep into backend development, I’m focused on architecting clean, scalable solutions and tackling complex technical challenges. Always learning, always building!</h4>
 
 ###
 
