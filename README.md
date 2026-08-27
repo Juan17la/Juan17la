@@ -7,12 +7,6 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/736x/28/e7/1e/28e71e129b120b121e5b79676bab8866.jpg"  />
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
@@ -25,20 +19,9 @@
 </div>
 
 ###
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Juan17la&show_icons=true&theme=react&hide_border=true&cache_seconds=86400"
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juan17la&layout=compact&theme=react&hide_border=true&cache_seconds=86400"
-    height="165"
-  />
-</p>
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=Juan17la&theme=react&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&cache_seconds=86400"
-    height="165"
-  />
+<h2 align="center">My Stats </h2>
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px;">
+  <img src="https://ghstats.dev/api/card?username=Juan17la&hide_border=true&hide_title=true&size=compact" alt="GitHub Stats Card" />
+  <img src="https://ghstats.dev/api/langs?username=Juan17la&hide_border=true&hide_title=true&max_langs=6" alt="Top Languages" />
 </p>
